@@ -49,6 +49,3 @@ _Assembly photos and renders coming soon..._
 **💸 Total Estimated Cost: ~ $97**
 
 ---
-
-
-   qmk compile -kb keyverse -km default

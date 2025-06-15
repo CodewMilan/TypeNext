@@ -50,9 +50,5 @@ _Assembly photos and renders coming soon..._
 
 ---
 
-## 🚀 How to Build & Flash
-1. Clone [QMK Firmware](https://github.com/qmk/qmk_firmware)
-2. Follow QMK setup guide: https://docs.qmk.fm/#/newbs
-3. Compile your firmware:
-   ```bash
+
    qmk compile -kb keyverse -km default

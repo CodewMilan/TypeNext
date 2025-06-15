@@ -6,7 +6,7 @@ created_at: "2025-06-15"
 total_time_spent: 9 hours
 ---
 
-# 🔧 MechaKey K48 — Build Notes & Progress
+# 🔧 Keyverse48 — Build Notes & Progress
 
 Welcome to the behind-the-scenes log of **Keyverse**, my DIY journey into building a no-nonsense, clean, and modular mechanical keyboard. This is *not* your typical RGB bling keyboard. I’m going for minimal, functional, and **custom from start to finish**.
 

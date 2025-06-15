@@ -18,14 +18,16 @@ Decided to dive deep into custom mechanical keyboards. Binge-watched a few build
 
 Since I had prior experience with EasyEDA, I quickly moved on to making the schematic. Here's a shot from that phase:
 
-![Schematic](https://github.com/user-attachments/assets/eb1fd0c2-374d-4551-a4d7-03b2adf7521a)
+![Schematic](<img width="782" alt="Screenshot 2025-06-15 113908" src="https://github.com/user-attachments/assets/059cce4a-5194-48cf-980f-303e9716b961" />
+)
 
 💡 Fun discovery today: Found out **Type-C Pro Micros exist** (finally, USB-C supremacy).
 
 Goal for this keyboard = **clean**, **compact**, no gimmicks, **strictly no RGB**. Just satisfying clicks and a good layout.
 
-![PCB Progress](https://github.com/user-attachments/assets/1670f3a8-02a7-4518-83e8-d3fe4c91f1f8)
-![Render](https://github.com/user-attachments/assets/f9997dfe-5a9b-4de4-b535-45334f442cb1)
+![PCB Progress](<img width="875" alt="image" src="https://github.com/user-attachments/assets/02b0f856-e5a3-4973-afa7-e78222de6659" />
+)
+!
 
 PCB done ✔ — exactly how I wanted it.
 

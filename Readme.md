@@ -24,7 +24,7 @@ Made by **CodewMilan** as part of the **Highway Series**.
 | **Layout**          | 5×12                     |
 | **Switch Mount**    | Kailh Hot-swap compatible             |
 | **Connectivity**    | USB-C                                 |
-| **Case Options**    | 3D Printed / Acrylic                  |
+
 
 ---
 

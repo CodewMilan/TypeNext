@@ -1,6 +1,6 @@
 # Keyverse 48
 
-Introducing **Keyverse ** — a fully custom, 48-key ortholinear mechanical keyboard designed for makers and keyboard enthusiasts. Built from scratch using open-source firmware and designed with love.
+Introducing **Keyverse** — a fully custom, 48-key ortholinear mechanical keyboard designed for makers and keyboard enthusiasts. Built from scratch using open-source firmware and designed with love.
 60
 Made by **CodewMilan** as part of the **Highway Series**.
 
@@ -29,15 +29,17 @@ Made by **CodewMilan** as part of the **Highway Series**.
 ---
 
 ## Previews
-<img width="862" alt="image" src="https://github.com/user-attachments/assets/2ca611ee-d169-45ef-8f02-83483a1437ca" />
+
+<img width="464" alt="1" src="https://github.com/user-attachments/assets/1df22396-b4ed-46bc-b406-6cf087a1c173" />
 
 
-<img width="706" alt="image" src="https://github.com/user-attachments/assets/b2e29a4e-5220-4967-b3c4-cc4123e456c5" />
+
+<img width="442" alt="3" src="https://github.com/user-attachments/assets/f49fa608-0b1c-4036-9d8a-c033c62e5bd1" />
 
 
-<img width="760" alt="image" src="https://github.com/user-attachments/assets/1043dedb-c77f-4e89-b73c-813ee89dd4d1" />
 
 
+<img width="914" alt="2" src="https://github.com/user-attachments/assets/a5a5c782-c62a-41a7-9537-5bb47ddc8cb3" />
 
 ---
 

@@ -1,67 +1,42 @@
----
-title: "Keyverse"
-author: "CodewMilan"
-description: "Custom DIY Mechanical Keyboard - Build Notes"
-created_at: "2025-06-15"
-total_time_spent: 9 hours
----
-
-# 🔧 Keyverse48 — Build Notes & Progress
-
-Welcome to the behind-the-scenes log of **Keyverse**, my DIY journey into building a no-nonsense, clean, and modular mechanical keyboard. This is *not* your typical RGB bling keyboard. I’m going for minimal, functional, and **custom from start to finish**.
+# Journal – Building **Keyverse 60** PCB
+**By CodewMilan** | Part of the **Highway Series**
 
 ---
 
-## 🗓️ May 21 — Kickoff: Learning & Schematics
-
-Decided to dive deep into custom mechanical keyboards. Binge-watched a few build logs and tutorials on YouTube, went through QMK’s documentation, and got a decent understanding of how everything ties together.
-
-Since I had prior experience with EasyEDA, I quickly moved on to making the schematic. Here's a shot from that phase:
-
-<img width="609" alt="image" src="https://github.com/user-attachments/assets/1195e86a-eab1-40d7-8630-a00a3424df19" />
-
-
-
-💡 Fun discovery today: Found out **Type-C Pro Micros exist** (finally, USB-C supremacy).
-
-Goal for this keyboard = **clean**, **compact**, no gimmicks, **strictly no RGB**. Just satisfying clicks and a good layout.
-
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/9a914737-e0bd-4917-8edf-b5cd21b33092" />
-
-<img width="811" alt="image" src="https://github.com/user-attachments/assets/fa5e64c9-5451-4389-85e8-c3571da8f6fd" />
-
-
-
-
-PCB done ✔ — exactly how I wanted it.
+## June 17, 2025 — learning( cus i didnt know lol)
+- Decided to embark on designing a **custom 60-key ortholinear keyboard PCB**.
+- Spent the day **watching YouTube tutorials** on PCB design for mechanical keyboards.
+  - Topics covered: matrix wiring, diode placement, microcontroller pin assignments, and designing footprints.
+- Installed **KiCad** and explored open-source keyboard projects for reference.
+- Sketched the **5×12 ortholinear layout** for the Keyverse 60.
 
 ---
 
-## 🗓️ May 22 — Case Design: Minimal Is Everything
-
-3D model for the case completed today.
-
-Kept it **simple** and **clean**. Focused more on practicality than looks, but it still came out nice.
-
-The STL files are already in the repo for anyone who wants to remix or print their own version.
-
----
-
-## 🗓️ June 7 — Optimizing the BOM 📝
-
-Today was all about hunting for parts and **optimizing cost**. Cross-checked component prices across Robu, AliExpress, and JLCPCB to make sure no part blows the budget.
-
-Updated the BOM with fresh links and better estimates. Also verified that all parts align with the final PCB version — didn’t want to end up with mismatched footprints later.
-
-Final call on **case material** is pending. Might go acrylic for the aesthetics + sturdiness, or stick to 3D printing for fast prototyping. Will decide after the build.
+## June 18, 2025 — finished schematic
+- Created the schematic in KiCad:
+  - Added **ATmega32u4 (Pro Micro)** as the controller.
+  - Added **60 diodes (1N4148)** for per-key protection.
+  - Laid out the **row and column matrix** for the ortholinear configuration.
+- Verified connections by cross-checking with reference builds from QMK documentation.
+- First draft of the schematic completed.
 
 ---
 
-## ⚡ Next Steps
-- Assembly & soldering
-- Flash QMK
-- Final case decision → Print or cut
+## June 19 did the pcb layout
+- Switched to **PCB layout editor** in KiCad.
+- Arranged the key switch footprints in the 5×12 ortholinear grid.
+- Added **Kailh hot-swap socket** footprints.
+- Carefully routed traces for all rows and columns, ensuring no conflicts or overlaps.
+- Verified DRC (Design Rule Check) for errors—resolved a few minor net conflicts.
+- Finalized USB-C footprint for the Pro Micro.
 
-More updates soon after I get my hands dirty with the hardware.
+---
 
-Stay tuned 🚀
+## June 20 finally done !!!!
+- Finalized silkscreen with the **Keyverse 60** name and **Highway Series** branding.
+- Exported **Gerber files**.
+- imported it into easyeda to ease ordering process.
+- Uploaded files to **JLCPCB** for manufacturing.
+- Submitted the **Keyverse 60** entry to the **Highway Form** for community showcase.
+- Feeling proud of completing my **first fully custom keyboard PCB design**.
+

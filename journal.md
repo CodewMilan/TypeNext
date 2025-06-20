@@ -28,7 +28,7 @@
 - Arranged the key switch footprints in the 5×12 ortholinear grid.
 - Added **Kailh hot-swap socket** footprints.
 - Carefully routed traces for all rows and columns, ensuring no conflicts or overlaps.
-- Verified DRC (Design Rule Check) for errors—resolved a few minor net conflicts.
+- Verified DRC (Design Rule Check) for errors resolved a few minor net conflicts.
 - Finalized USB-C footprint for the Pro Micro.
 
 ---

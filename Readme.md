@@ -1,6 +1,6 @@
 # Keyverse 60
 
-Introducing **Keyverse** — a fully custom, 60-key ortholinear mechanical keyboard designed for makers and keyboard enthusiasts. Built from scratch using open-source firmware and designed with love.
+Hi there, I Built **keyverse** as a learning experience, since i am pretty new to pcb design, keyverse is a 60 key ortholinear mechanical keyboard for coders and gamers :) (fully open source, please contribute hehe)
 
 Made by **CodewMilan** as part of the **Highway Series**.
 

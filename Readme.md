@@ -1,4 +1,4 @@
-# Keyverse 48
+# Keyverse 60
 
 Introducing **Keyverse** — a fully custom, 60-key ortholinear mechanical keyboard designed for makers and keyboard enthusiasts. Built from scratch using open-source firmware and designed with love.
 

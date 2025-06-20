@@ -1,3 +1,4 @@
+
 # Journal – Building **Keyverse 60** PCB
 **By CodewMilan** | Part of the **Highway Series**
 
@@ -39,4 +40,5 @@
 - Uploaded files to **JLCPCB** for manufacturing.
 - Submitted the **Keyverse 60** entry to the **Highway Form** for community showcase.
 - Feeling proud of completing my **first fully custom keyboard PCB design**.
+
 

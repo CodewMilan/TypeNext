@@ -55,6 +55,6 @@ Made by **CodewMilan** as part of the **Highway Series**.
 | **PCB**              | Custom PCB from [JLCPCB](https://jlcpcb.com)                                                                                       | 1    | $40                  |
 | **Case**             | 3D Printed / Acrylic (files included)                                                                                             | 1    | $6                   |
 
-**💸 Total Estimated Cost: ~ $97**
+**Total Estimated Cost: ~ $97**
 
 ---

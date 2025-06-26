@@ -1,44 +1,41 @@
+# Journal – Building Keyverse 60 PCB  
+By CodewMilan | Part of the Highway Series  
 
-# Journal – Building **Keyverse 60** PCB
-**By CodewMilan** | Part of the **Highway Series**
+## June 17, 2025  
+**Hours spent: 2 hrs**  
+Decided to go full send and build my own 60-key ortholinear keyboard PCB  
+Started bingeing YouTube vids on keyboard PCB design cuz I had no clue  
+Learned about matrix wiring, diode flow (why is that a thing), and how to not fry a Pro Micro  
+Installed KiCad, got overwhelmed, then started vibing with it  
+Sketched the 5×12 layout on paper and ngl it looked kinda clean  
 
----
+## June 18, 2025  
+**Hours spent: 2 hrs**  
+Opened KiCad’s schematic editor and went to war  
+Dropped in the ATmega32u4 and 60 diodes like a machine  
+Wired up the row-column matrix, almost lost it halfway but survived  
+Cross-checked with QMK docs like my life depended on it  
+Cleaned up the mess and actually ended up with a decent schematic  
 
-## June 17, 2025 — learning( cus i didnt know lol)
-- Decided to embark on designing a **custom 60-key ortholinear keyboard PCB**.
-- Spent the day **watching YouTube tutorials** on PCB design for mechanical keyboards.
-  - Topics covered: matrix wiring, diode placement, microcontroller pin assignments, and designing footprints.
-- Installed **KiCad** and explored open-source keyboard projects for reference.
-- Sketched the **5×12 ortholinear layout** for the Keyverse 60.
+## June 19, 2025  
+**Hours spent: 2 hrs**  
+Jumped into PCB layout and instantly felt pain  
+Slapped down Kailh hotswap sockets in a perfect grid  
+Routed traces like it was a puzzle game on hard mode  
+Fixed DRC errors, shifted things like 100 times  
+Added USB-C Pro Micro footprint and called it a win  
 
----
+## June 20, 2025  
+**Hours spent: 2 hrs**  
+Did some silkscreen drip with Keyverse 60 and Highway Series labels  
+Added test points for vibes and future-proofing  
+Exported the Gerber files like a pro  
+Threw it into EasyEDA to make ordering smooth  
+dropped it in the Highway Form just to flex a little  
 
-## June 18, 2025 — finished schematic
-- Created the schematic in KiCad:
-  - Added **ATmega32u4 (Pro Micro)** as the controller.
-  - Added **60 diodes (1N4148)** for per-key protection.
-  - Laid out the **row and column matrix** for the ortholinear configuration.
-- Verified connections by cross-checking with reference builds from QMK documentation.
-- First draft of the schematic completed.
+## June 26, 2025  
+**Hours spent: 2 hrs**  
+Designed a new case with proper screw holes and USB cutout  
 
----
-
-## June 19 did the pcb layout
-- Switched to **PCB layout editor** in KiCad.
-- Arranged the key switch footprints in the 5×12 ortholinear grid.
-- Added **Kailh hot-swap socket** footprints.
-- Carefully routed traces for all rows and columns, ensuring no conflicts or overlaps.
-- Verified DRC (Design Rule Check) for errors resolved a few minor net conflicts.
-- Finalized USB-C footprint for the Pro Micro.
-
----
-
-## June 20 finally done !!!!
-- Finalized silkscreen with the **Keyverse 60** name and **Highway Series** branding.
-- Exported **Gerber files**.
-- imported it into easyeda to ease ordering process.
-- Uploaded files to **JLCPCB** for manufacturing.
-- Submitted the **Keyverse 60** entry to the **Highway Form** for community showcase.
-- Feeling proud of completing my **first fully custom keyboard PCB design**.
 
 

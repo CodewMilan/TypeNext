@@ -30,16 +30,14 @@ Made by **CodewMilan** as part of the **Highway Series**.
 
 ## Previews
 
-<img width="464" alt="1" src="https://github.com/user-attachments/assets/1df22396-b4ed-46bc-b406-6cf087a1c173" />
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/7beed01d-8af1-47f4-931d-c3e15695da68" />
 
 
-
-<img width="442" alt="3" src="https://github.com/user-attachments/assets/f49fa608-0b1c-4036-9d8a-c033c62e5bd1" />
-
+![image](https://github.com/user-attachments/assets/79ccf577-c6d5-459e-9650-42a242b48f57)
 
 
+<img width="842" alt="3" src="https://github.com/user-attachments/assets/f49fa608-0b1c-4036-9d8a-c033c62e5bd1" />
 
-<img width="914" alt="2" src="https://github.com/user-attachments/assets/a5a5c782-c62a-41a7-9537-5bb47ddc8cb3" />
 
 ---
 

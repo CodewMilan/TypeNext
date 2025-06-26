@@ -43,16 +43,22 @@ Made by **CodewMilan** as part of the **Highway Series**.
 
 ## Bill of Materials (BOM)
 
-| Component            | Source                                                                                                                            | Qty  | Approx. Price (USD) |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------|------|----------------------|
-| **Microcontroller**  | [Pro Micro USB-C – Robu.in](https://robu.in/product/pro-micro-type-c-microcontroller-development-board-for-arduino/?gad_source=1) | 1    | $7                   |
-| **Hot-swap Sockets** | [Kailh Sockets – Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/)          | 60   | $8                   |
-| **Switches**         | [Gateron G Pro 3.0 Blue – Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/)| 60 | $13                  |
-| **Keycaps**          | [PBT Keycaps (Charcoal) – Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/)                            | 1 set| $20                  |
-| **Diodes**           | 1N4148 – Local or [Robu.in](https://robu.in)                                                                                      | 50   | $3                   |
-| **PCB**              | Custom PCB from [JLCPCB](https://jlcpcb.com)                                                                                       | 1    | $40                  |
-| **Case**             | 3D Printed / Acrylic (files included)                                                                                             | 1    | $6                   |
+# Keyboard Build BOM (India)
 
-**Total Estimated Cost: ~ $97**
+| Component                   | Quantity | Suggested Source                          | Approx. Cost (INR) | Approx. Cost (USD) |
+|----------------------------|----------|-------------------------------------------|---------------------|---------------------|
+| PCB                        | 1        | JLCPCB / Local Fab                         | ₹2500               | $30.12              |
+| Arduino Pro Micro (Type-C) | 1        | Robu.in / Vedanta / Amazon India          | ₹750                | $9.04               |
+| Cherry MX / Clone Switches | 60       | Meckeys / DIYKeyboards / AliExpress       | ₹2500               | $30.12              |
+| 1N4148 Diodes              | 60       | Robu.in / Amazon / Local Store            | ₹100                | $1.20               |
+| Hot-Swap Sockets (Optional)| 60       | AliExpress / Meckeys / Stack Mods         | ₹1200               | $14.46              |
+| Keycaps                    | 60       | Meckeys / KPRepublic / StackMods          | ₹2500               | $30.12              |
+| 3D Printed Case            | 1        | Local 3D Print Shop                        | ₹1000               | $12.05              |
+| Misc (Wires, Screws, USB)  | -        | Local Electronics / Amazon                | ₹300                | $3.61               |
+| **Total**                  | —        | —                                         | **₹10850**          | **~$130.72**        |
+
+
+
+**Total Estimated Cost: ~ $131**
 
 ---
